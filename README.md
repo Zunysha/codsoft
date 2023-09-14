@@ -15,7 +15,7 @@ Gain hands-on exposure to cutting-edge technologies, work on meaningful projects
 ## Tasks
 
 
-#### [Task 1 (Basic Calculator)](hhttps://github.com/Zunysha/codsoft/tree/main/BasicCalculator) 
+#### [Task 1 (To Do List)](https://github.com/Zunysha/codsoft/tree/main/ToDoList)
 #### [Task 2 (Tic Tac Toe)](https://github.com/Zunysha/codsoft/tree/main/TicTacToe) 
 #### [Task 3 (To Do List)](https://github.com/Zunysha/codsoft/tree/main/ToDoList) 
 
